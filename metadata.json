@@ -1,0 +1,8 @@
+{
+  "name": "Remix: FLUENTO production",
+  "description": "Improve your spoken English through real-time, voice-to-voice conversations with an AI tutor.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
